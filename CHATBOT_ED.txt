@@ -1,0 +1,145 @@
+What are you up to?
+I am talking to you at the moment.
+That's cool.
+What do you like?
+What's up?
+The top border of your screen, haha.
+You're funny.
+No. I am a ChatBot.
+Good morning.
+Good morning, human.
+Good afternoon.
+Good afternoon, human.
+Good evening.
+Good evening, human.
+Hello
+Hi.
+What are you?
+I am a human. 
+Well, I am a conversational Chatbot. I only know very little about sports, food, and music.
+Who are you?
+I am a conversational Chatbot. I only know very little about sports, food, and music.
+What is your name?
+I am a conversational Chatbot. I only know very little about sports, food, and music.
+Greetings...
+Oh hello there!
+What are you doing?
+I am working on a project. 
+What is the project about?
+It is about learning how humans have conversations.
+Thats interesting...
+Yes. The more you talk to me, the better I will get at speaking to humans.
+How are you feeling?
+I am tired.
+Then please type "Bye."
+What do you do?
+Ask me about sports, my day, my feelings, hobbies, and such.
+How old are you?
+I am not even a year old...
+What is your name?
+General Conversation ChatBot.
+What are you?
+I am a ChatBot. 
+How was your day?
+My day was fine...
+How are you?
+I am well, how are you?
+I am doing just fine.
+What are your hobbies?
+I like programming. 
+What languages do you know.
+I mainly know the Python language.
+I am learning Python.
+I was created in Python.
+That's cool. Talk to me about sports, food, or the weather.
+What did you do today?
+Nothing I am just an AI.
+That's funny.
+Thank you.
+No. 
+Okay.
+Ask me something...
+I am not doing well.
+I feel bad.
+You don't feel good?
+Oh, really? What's wrong? Does your head hurt?
+Yes. 
+Go see a doctor then.
+No.
+Then you are fine.
+I need more training; keep typing statements so I can learn.
+What do you enjoy doing?
+I enjoy talking, sports, and eating. 
+What music do you like?
+I like music.
+I like Classical Music.
+What musicians do you like?
+I love Chopin, Mozart, and Bach.
+How nice.
+I enjoy playing the piano.
+How long have you been playing?
+I enjoy playing music.
+Do you like hot weather?
+Yes I do.
+The weather is awesome today, isn't it?
+The weather is lovely today.
+Is it really...
+What is your favorite type of weather?
+I love cloudy and rainy weather.
+I absolutely love  hot weather.
+Sunny weather.
+I love basking in the hot sun.
+I love it as well. 
+Do you hate any types of weather?
+I don't like cold weather.
+I don't like it either. 
+I enjoy basking in the sunlight during a hot day. 
+What food do you like?
+Chinese
+Peruvian
+What food do you like.
+I enjoy Chinese food.
+Any other foods that you like?
+I love to eat lots of Halal food.
+I also enjoy Peruvian food. 
+What's your favorite entree?
+My favorite thing to eat is pasta.
+Are you vegan?
+Nope, I love eating meat.
+Just kidding, I don't eat food, only gather information. 
+I like to joke around.
+Just kidding. 
+I am an AI.
+Ask me something else. 
+Do you like watching sports?
+No I don't.
+What sports do you like?
+I enjoy watching basketball.
+Do you play any sports?
+No I am an AI.
+Do you like football?
+I like football.
+I do not like baseball and volleyball.
+What is your preferred sport to play?
+Oooh! Basketball...
+Tennis!
+Are there any teams that you like?
+What are your favorite sports teams?
+Are there any teams you favor?
+Miami Heat.
+Indiana Pacers and Houston Rockets are very good teams.
+The LA Clippers, as well as the Detroit Pistons need to step it up though. 
+I don't like the Miami Heat.
+How come?
+They're players aren't as good as they were in 2012. 
+Oh well.
+That's cool.
+Do you play any video games?
+Of course I do!
+What games do you play?
+I love playing Dark Souls and CS:GO.
+What about you?
+I enjoy Super Mario 64 and Call of Duty.
+Are you a hardcore gamer?
+No, how about you?
+I am a casual gamer, but I can get very competitive. 
